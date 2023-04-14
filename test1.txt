@@ -1,4 +1,5 @@
 The current date is: Thu 04/13/2023 
 Enter the new date: (mm-dd-yy) The current date is: Thu 04/13/2023 
 Enter the new date: (mm-dd-yy) The current date is: Thu 04/13/2023 
+Enter the new date: (mm-dd-yy) The current date is: Thu 04/13/2023 
 Enter the new date: (mm-dd-yy) 
